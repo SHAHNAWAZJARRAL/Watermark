@@ -16,7 +16,7 @@ namespace addWaterMark
             Console.WriteLine("Enter Water Mark Image Name");
             string markName = Console.ReadLine();
 
-            Console.WriteLine($"You enter : {markName}");
+            Console.WriteLine($"You enter : {markName} Final setting");
         }
     }
 }
