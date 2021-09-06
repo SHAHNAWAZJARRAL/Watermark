@@ -12,6 +12,7 @@ namespace addWaterMark
     {
         public void watermark()
         {
+            //Comments
             Console.WriteLine("Enter Water Mark Image Name");
             string markName = Console.ReadLine();
 
